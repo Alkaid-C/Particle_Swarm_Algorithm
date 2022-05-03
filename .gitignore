@@ -1,6 +1,10 @@
-*.*
-*
-!*.cpp
-!*.h
-!Makefile
-!.md
+
+/.vs/Particle_Swarm_Algorithm/v17/ipch/AutoPCH/11509af142e194b/PARTICLE_SWARM_ALGORITHM.ipch
+/.vs/Particle_Swarm_Algorithm/v17
+/x64/Debug
+/Particle_Swarm_Algorithm.sln
+/Particle_Swarm_Algorithm/x64/Debug/Particle.679a07fe.tlog
+/Particle_Swarm_Algorithm/x64/Debug
+/Particle_Swarm_Algorithm/Particle_Swarm_Algorithm.vcxproj.user
+/Particle_Swarm_Algorithm/Particle_Swarm_Algorithm.vcxproj.filters
+/Particle_Swarm_Algorithm/Particle_Swarm_Algorithm.vcxproj
